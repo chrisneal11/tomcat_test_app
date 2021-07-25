@@ -5,9 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Tomcat testing Application</title>
+<title>Tomcat webserver testing application for CM Project1</title>
 </head>
 <body>
-    <h1>Finally working....!</h1>
+    <h1>Tomcat webserver testing application for CM Project1</h1>
+    <hr>
+    <h2>I finally got it working!!!!   Woo Hoo!!!</h2>
 </body>
 </html>
